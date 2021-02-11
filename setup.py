@@ -15,7 +15,7 @@ setup(
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',      
-    'Intended Audience :: Anyone who downloads files and likes python',      
+    'Intended Audience :: Developers',      
     'Topic :: Software Development :: Build Tools',
     'License :: OSI Approved :: MIT License',   
     'Programming Language :: Python :: 3',      
